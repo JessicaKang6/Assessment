@@ -1,23 +1,23 @@
 /* General Website Styling*/
 @font-face {
   font-family: navfont;
-  src: url(/Fonts/galirdb.ttf);
+  src: url(Fonts/galirdb.ttf);
 }
 @font-face {
   font-family: heading;
-  src: url(/Fonts/SwankyandMooMoo-Regular.ttf);
+  src: url(Fonts/SwankyandMooMoo-Regular.ttf);
 }
 @font-face {
   font-family: body-text;
-  src: url(/Fonts/Sura-Regular.ttf);
+  src: url(Fonts/Sura-Regular.ttf);
 }
 @font-face {
   font-family: title;
-  src: url(/Fonts/KaushanScript-Regular.ttf);
+  src: url(Fonts/KaushanScript-Regular.ttf);
 }
 @font-face {
   font-family: title2;
-  src: url(/Fonts/Merriweather-Regular.ttf)
+  src: url(Fonts/Merriweather-Regular.ttf)
 }
 *{
     overflow-x: hidden;
