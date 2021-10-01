@@ -9,7 +9,7 @@
 .head{
  grid-row:1;
  grid-column: 1/ span 6;
- position: relative;
+ position: static;
   text-align: center;
 }
 .head img{
